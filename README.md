@@ -7,3 +7,5 @@ animation from lo folder
 
 in lo folder rot store in 8 bytes (read not all anim files)
 in med and hi rot store in 4 bytes (dont know how to get right)
+
+many bugs
